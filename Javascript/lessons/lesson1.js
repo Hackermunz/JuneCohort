@@ -15,4 +15,6 @@ console.log("Hello World");
 var greeting = "Hola"
 var name = "munsar";
 
-console.log(greeting+" "+name)
+
+console.log(greeting+" "+Myname);
+console.log(31.5+31.5);
