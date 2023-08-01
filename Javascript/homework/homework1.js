@@ -24,4 +24,3 @@ var dob = "03"
 console.log('my name is', name, "i am", age , "i am born in" , dob);
 
 
-
