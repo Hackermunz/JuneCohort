@@ -31,11 +31,7 @@ array[4] = "juice"
 
 array.push(name)
 
-array.shift()
-
-array.pop()
-
-array.splice(1,3)
+//array.splice(index, numberofitems) = remove the item starting from that index and how many items you want to remove  
 
 console.log(array);
 
