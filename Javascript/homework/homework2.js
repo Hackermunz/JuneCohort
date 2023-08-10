@@ -9,3 +9,13 @@ listofitem[3] = "chocolate"
 listofitem[4] = "milk"
 listofitem[5] = "water"
 listofitem[6] = "coke"
+
+listofitem.shift()
+listofitem.shift()
+
+listofitem.unshift("coke")
+
+
+console.log(listofitem)
+
+console.log('item 1 = ${listofitems[0]} other items are $(list of items[listofitems.length-1] & $(listofitems[6])}')
