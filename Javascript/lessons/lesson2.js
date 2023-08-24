@@ -31,7 +31,7 @@ array[4] = "juice"
 
 array.push(name)
 
-//array.splice(index, numberofitems) = remove the item starting from that index and how many items you want to remove  
+//array.splice(index, numberofitems) = remove the item starting from that index and how many items you want to remove node  
 
 console.log(array);
 
