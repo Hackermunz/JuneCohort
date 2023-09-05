@@ -43,7 +43,7 @@ if(array.length>=3){
 }*/ 
 
 
-let day = "Friday"
+let day = "friday" .toUpperCase()
 
 if(day === "Friday" || day ===  "Thursday" || day ===  "Wenesday" || day ===  "Tuesday" || day ===  "Monday"){
     console.log('$(day) is a weekday')
@@ -53,3 +53,4 @@ if(day === "Friday" || day ===  "Thursday" || day ===  "Wenesday" || day ===  "T
     console.log("Not possible")
 }
 
+methodName 

@@ -36,4 +36,6 @@ if(typeof array != "object" || array.length>5 || array.length<5){
     console.log("error")
 }else{
     console.log("list has 5 items")
-}
+} 
+
+
