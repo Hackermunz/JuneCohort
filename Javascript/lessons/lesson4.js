@@ -1,3 +1,5 @@
+//condintional statement part 2
+
 const age = 24
 var occupation = "working"
 

@@ -1,3 +1,5 @@
+//arrays
+
 let age = "20"
 console.log(age);
 const name = "munz"
